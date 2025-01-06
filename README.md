@@ -2,7 +2,7 @@
 
 Financial mathematics cheat sheet created using $\LaTeX$ that reviews capitalization and discount formulas, series, amortization table and loans + graphical loan analysis.
 
-( :es: ) *Hoja de Referencia Matemáticas Financieras.*
+( :es: ) ***Hoja de Referencia Matemáticas Financieras.***
 
 *Hoja de referencia de matemáticas financieras creada usando* $\LaTeX$ *que revisa fórmulas de capitalización y descuento, rentas, cuadro de amortización, préstamos + análisis gráfico de préstamos.*
 
