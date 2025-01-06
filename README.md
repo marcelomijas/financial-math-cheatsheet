@@ -2,9 +2,9 @@
 
 Financial mathematics cheat sheet created using $\LaTeX$ that reviews capitalization and discount formulas, series, amortization table and loans + graphical loan analysis.
 
-[ :es: ] *Cheat Sheet Matemáticas Financieras.*
+( :es: ) *Hoja de Referencia Matemáticas Financieras.*
 
-*Chuleta de matemáticas financieras creada usando* $\LaTeX$ *que revisa fórmulas de capitalización y descuento, rentas, cuadro de amortización, préstamos + análisis gráfico de préstamos.*
+*Hoja de referencia de matemáticas financieras creada usando* $\LaTeX$ *que revisa fórmulas de capitalización y descuento, rentas, cuadro de amortización, préstamos + análisis gráfico de préstamos.*
 
 ## Download links / Links de descarga
 
@@ -26,7 +26,7 @@ In addition to the notes taken from the [Degree in Economics](https://www.urjc.e
 
 This project was initially created with Microsoft Word during my Degree in Economics and it was (is) used by all my classmates and students of the subject from multiples universities of Madrid (Spain).
 
-[ :es: ] *Adcionalmente a las notas tomadas del [Grado en Economía](https://www.urjc.es/universidad/calidad/560-economia) de la Universidad Rey Juan Carlos, los libros usados:*
+( :es: ) *Adcionalmente a las notas tomadas del [Grado en Economía](https://www.urjc.es/universidad/calidad/560-economia) de la Universidad Rey Juan Carlos, los libros usados:*
 
 [1] Aparicio, A.; Gallego, R.; Monrobel, J.R.; Ibarra, J.A. (2017). *Cálculo Financiero. Teoría y Ejercicios*. Thomson-Paraninfo.
 
@@ -42,4 +42,4 @@ This project was initially created with Microsoft Word during my Degree in Econo
 
 The main way to help the project is to **directly support the authors of the manuals that are included in the resources section** (for example, by buying their works). Another great way to support the project is by sharing it and :star: it!
 
-[ :es: ] *La principal forma de ayudar al proyecto es **apoyar directamente a los autores de los manuales que se incluyen en la sección de recursos** (por ejemplo, comprando sus obras). ¡Otra gran forma de apoyar el proyecto es compartiéndolo y dándole :star:!*
+( :es: ) *La principal forma de ayudar al proyecto es **apoyar directamente a los autores de los manuales que se incluyen en la sección de recursos** (por ejemplo, comprando sus obras). ¡Otra gran forma de apoyar el proyecto es compartiéndolo y dándole :star:!*
