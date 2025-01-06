@@ -18,7 +18,7 @@ Download all / Descargar todo: [`ZIP`](https://github.com/marcelomijas/financial
 
 :triangular_flag_on_post: [LinkedIn](https://www.linkedin.com/in/marcelomorenop/).
 
-## Recursos / Resources
+## Resources / Recursos
 
 In addition to the notes taken from the [Degree in Economics](https://www.urjc.es/universidad/calidad/560-economia) by Universidad Rey Juan Carlos, the books used:
 
