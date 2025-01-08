@@ -10,9 +10,9 @@ Financial mathematics cheat sheet created using $\LaTeX$ that reviews capitaliza
 
 Current version / Versión actual: `FM-25.01`
 
-* English :us: : [`PDF`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/financial-math-cheatsheet-en.pdf) [`TeX`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/financial-math-cheatsheet-en.tex)
+* English :us: : [`PDF`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/current/financial-math-cheatsheet-en.pdf) [`TeX`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/current/financial-math-cheatsheet-en.tex)
 
-* Español :es: : [`PDF`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/financial-math-cheatsheet-es.pdf) [`TeX`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/financial-math-cheatsheet-es.tex)
+* Español :es: : [`PDF`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/current/financial-math-cheatsheet-es.pdf) [`TeX`](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/current/financial-math-cheatsheet-es.tex)
 
 Download all / Descargar todo: [`ZIP`](https://github.com/marcelomijas/financial-math-cheatsheet/archive/refs/heads/main.zip)
 
@@ -24,13 +24,13 @@ In addition to the notes taken from the [Degree in Economics](https://www.urjc.e
 
 [1] Aparicio, A.; Gallego, R.; Monrobel, J.R.; Ibarra, J.A. (2017). *Cálculo Financiero. Teoría y Ejercicios*. Thomson-Paraninfo.
 
-This project was initially created with Microsoft Word during my Degree in Economics and it was (is) used by all my classmates and students of the subject from multiples universities of Madrid (Spain).
+This project was initially created with Microsoft Word during my Degree in Economics and it was (is) used by all my classmates and students of the subject from multiples universities of Madrid (Spain). You can find the original cheat sheet [here](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/legacy/cuadro-resumen.pdf). Microsoft Word file will be provided upon request.
 
 ( :es: ) *Adcionalmente a las notas tomadas del [Grado en Economía](https://www.urjc.es/universidad/calidad/560-economia) de la Universidad Rey Juan Carlos, los libros usados:*
 
 [1] Aparicio, A.; Gallego, R.; Monrobel, J.R.; Ibarra, J.A. (2017). *Cálculo Financiero. Teoría y Ejercicios*. Thomson-Paraninfo.
 
-*Este proyecto se creó inicialmente con Microsoft Word durante mi Grado en Economía y fue (es) usado por todos mis compañeros de clase y por estudiantes de la asignatura de múltiples universidades de Madrid (España).* 
+*Este proyecto se creó inicialmente con Microsoft Word durante mi Grado en Economía y fue (es) usado por todos mis compañeros de clase y por estudiantes de la asignatura de múltiples universidades de Madrid (España). Puede encontrar la hoja de referencia original [aquí](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/legacy/cuadro-resumen.pdf). Se proporcionará el archivo de Microsoft Word si se solicita.*
 
 ## Other projects / Otros proyectos
 
