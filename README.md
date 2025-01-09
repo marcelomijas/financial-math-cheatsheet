@@ -2,7 +2,7 @@
 
 Financial mathematics cheat sheet created using $\LaTeX$ that reviews capitalization and discount formulas, series, amortization table and loans + graphical loan analysis.
 
-( :es: ) ***Hoja de Referencia Matemáticas Financieras.***
+( :es: ) ***Hoja de Referencia Matemáticas Financieras***
 
 *Hoja de referencia de matemáticas financieras creada usando* $\LaTeX$ *que revisa fórmulas de capitalización y descuento, rentas, cuadro de amortización, préstamos + análisis gráfico de préstamos.*
 
@@ -30,7 +30,7 @@ This project was initially created with Microsoft Word during my Degree in Econo
 
 [1] Aparicio, A.; Gallego, R.; Monrobel, J.R.; Ibarra, J.A. (2017). *Cálculo Financiero. Teoría y Ejercicios*. Thomson-Paraninfo.
 
-*Este proyecto se creó inicialmente con Microsoft Word durante mi Grado en Economía y fue (es) usado por todos mis compañeros de clase y por estudiantes de la asignatura de múltiples universidades de Madrid (España). Puede encontrar la hoja de referencia original [aquí](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/legacy/cuadro-resumen.pdf). Se proporcionará el archivo de Microsoft Word si se solicita.*
+*Este proyecto se creó inicialmente con Microsoft Word durante mi Grado en Economía y fue (es) usado por todos mis compañeros de clase y por estudiantes de la asignatura de múltiples universidades de Madrid (España). Puede encontrar la hoja de referencia original [aquí](https://raw.githubusercontent.com/marcelomijas/financial-math-cheatsheet/main/legacy/cuadro-resumen.pdf). Se proporcionará el archivo de Microsoft Word bajo solicitud.*
 
 ## Other projects / Otros proyectos
 
